@@ -7,6 +7,8 @@ export default function NotFound() {
           <p className="text-lg text-gray-500 mt-2">
             The page you're looking for doesn't exist or has been moved.
           </p>
+          <img src="https://github.com/afsarzan.png" alt="test" sizes="200"  />
+          <h4>Contact this developer</h4>
           <a
             href="/"
             className="mt-6 inline-block px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition duration-300"
