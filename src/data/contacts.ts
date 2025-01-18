@@ -5,13 +5,13 @@ export type Contact = {
 };
 export const CONTACTS: Contact[] = [
   {
-    name: "Muhammad Ahsan",
-    handle: "codewithahsan",
+    name: "Afsar",
+    handle: "codewithafsar",
     id: 1,
   },
   {
-    name: "Mohsin",
-    handle: "mohsinayaz",
+    name: "Muz",
+    handle: "muz",
     id: 2,
   },
 ];
